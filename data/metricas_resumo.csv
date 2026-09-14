@@ -1,0 +1,9 @@
+metric,value,notes
+total_responses,79,All responses in the exported form table
+piracicaba_sample,73,"Includes the response ""santa rita"" as Piracicaba, matching carousel note"
+other_cities,6,Normalized as not Piracicaba
+piracicaba_roll_yes,55,Residents of Piracicaba who answered Sim
+piracicaba_roll_no,18,Residents of Piracicaba who answered Não
+piracicaba_roll_share,0.753425,55/73
+wilson_95_lower,0.643556,95% Wilson score interval
+wilson_95_upper,0.837955,95% Wilson score interval
