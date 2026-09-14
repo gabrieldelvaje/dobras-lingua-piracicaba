@@ -1,0 +1,5 @@
+study,year,location_or_population,proportion_percent,approximate,source
+Piracicaba sample,2026,"Piracicaba, SP, Brazil",75.3,false,data/respostas_pesquisa.csv
+Ebeye,2019,"Esan, Southern Nigeria",72.9,false,https://doi.org/10.4314/aja.v8i2.188220
+Sturtevant,1940,"Historical study",70.0,true,https://doi.org/10.1073/pnas.26.2.100
+Adekoya et al.,2020,"University of Lagos, Nigeria",63.9,false,https://doi.org/10.1016/j.sciaf.2020.e00508
